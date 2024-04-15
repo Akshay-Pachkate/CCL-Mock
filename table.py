@@ -1,2 +1,4 @@
+n = int(input("Enter the number"));
+
 for i in range(10):
-    print("10 X " , (i+1) , " = " , 10*(i+1))
+    print(n, " X " , (i+1) , " = " , n*(i+1))
